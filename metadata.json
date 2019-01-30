@@ -1,0 +1,15 @@
+{
+  "name": "jeferson-role",
+  "version": "0.1.0",
+  "author": "jeferson",
+  "summary": "This is a role module",
+  "license": "This is a role module",
+  "source": "git@github.com:jefersonlemos/puppet-role.git",
+  "project_page": "https://github.com/jefersonlemos/puppet-role.git",
+  "issues_url": "https://github.com/jefersonlemos/puppet-role/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
